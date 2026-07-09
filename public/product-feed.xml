@@ -4,6 +4,18 @@
     <title>מכירות בשקל</title>
     <link>https://example.com</link>
     <description>Product feed for מכירות בשקל</description>
-    <lastBuildDate>Thu, 09 Jul 2026 11:42:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 11:48:01 GMT</lastBuildDate>
+    <item>
+      <g:id>5f553de7-f500-47f1-9807-015006245f05</g:id>
+      <g:title>‏טושים בשקל </g:title>
+      <g:description>‏ממליצה</g:description>
+      <g:link>https://example.com/product/tvshym-bshkl-h9yclw</g:link>
+      <g:image_link>https://example.com/assets/product-1783597506431-88elcp.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>8.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>מכירות בשקל</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
   </channel>
 </rss>

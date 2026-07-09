@@ -80,7 +80,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-_No products are currently configured._
+**Total active products: 1**
+
+### ‏טושים בשקל 
+https://example.com/product/tvshym-bshkl-h9yclw
+- Price: 8.00 ILS
+- Availability: In stock
+- Description: ‏ממליצה
+- Image: https://example.com/assets/product-1783597506431-88elcp.webp
 
 ---
 
