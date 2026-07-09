@@ -7,73 +7,73 @@
 ## Pages
 
 ### בית
-https://-ee6b0d5f.zappy5.app
+https://example.com
 גלו חנות דיסקאונט ענקית עם מוצרי מכולת, אלקטרוניקה ועוד במחירים של שקלים בודדים. כל יום מבצעים חדשים שיחסכו לכם הון. בקרו עכשיו ותתחילו לחסוך!
 
 ### אודות
-https://-ee6b0d5f.zappy5.app/about
+https://example.com/about
 הכירו את החזון של מכירות בשקל: להביא לכם מותגי ענק ומוצרים איכותיים בשקלים ספורים. גלו איך הפכנו קניות לחגיגה של חיסכון לכל כיס.
 
 ### חוויית דילים
-https://-ee6b0d5f.zappy5.app/deals-experience
+https://example.com/deals-experience
 חוויית דילים שאין שנייה לה: מאות מוצרים טריים, גאדג&#39;טים שווים ומבצעי ענק מחכים לכם. גללו, בחרו והתאהבו בקניות שמשאירות עודף בכיס.
 
 ### שאלות נפוצות
-https://-ee6b0d5f.zappy5.app/faq
+https://example.com/faq
 יש לכם שאלות על המשלוחים, המוצרים או המבצעים? ריכזנו את כל התשובות שיהפכו את הקנייה שלכם לקלה ומשתלמת פי כמה. כנסו וגלו את כל הסודות!
 
 ### צור קשר
-https://-ee6b0d5f.zappy5.app/contact
+https://example.com/contact
 רוצים לקבל עדכון על הדיל הבא? צריכים עזרה במציאת המוצר המושלם? צרו קשר ונחזור אליכם עם חיוך ומחיר שאי אפשר לסרב לו. אנחנו מחכים לשמוע מכם!
 
 ### Products
-https://-ee6b0d5f.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - מכירות בשקל
 
 ### Cart
-https://-ee6b0d5f.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://-ee6b0d5f.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://-ee6b0d5f.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://-ee6b0d5f.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://-ee6b0d5f.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://-ee6b0d5f.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - מכירות בשקל
 
 ### Category
-https://-ee6b0d5f.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - מכירות בשקל
 
 ### תודה רבה - הפנייה התקבלה | מכירות בשקל
-https://-ee6b0d5f.zappy5.app/thank-you
+https://example.com/thank-you
 תודה שפניתם למכירות בשקל - חנות הדיסקאונט המובילה. פנייתכם התקבלה בהצלחה ונחזור אליכם בהקדם האפשרי.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-ee6b0d5f.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-ee6b0d5f.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-ee6b0d5f.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -101,8 +101,8 @@ Retail / Discount Store
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-ee6b0d5f.zappy5.app/sitemap.xml
-- Robots: https://-ee6b0d5f.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-ee6b0d5f.zappy5.app/llms-full.txt
-- Products (JSON): https://-ee6b0d5f.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-ee6b0d5f.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
